@@ -7,9 +7,9 @@
  */
 
 // This file contains all the environment variables
-require './../sdk/env.php'; 
+require './../src/env.php'; 
 // This file contains all necessary file imports and declarations
-include './../sdk/offload.php'; 
+include './../src/offload.php'; 
 
 ?>
 
